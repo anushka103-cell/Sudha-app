@@ -1,0 +1,95 @@
+name: sudha_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+fonts:
+  - family: Georgia
+    fonts:
+      - asset: assets/fonts/Georgia.ttf
+
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  video_player: ^2.8.2  # (latest as of July 2025)
+  google_fonts: ^6.2.0 
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png.webp
+    - assets/images/products1.png
+    - assets/images/products2.jpg
+    - assets/images/products3.jpg
+    - assets/images/download (3).jpg
+    - assets/images/download.jpg
+    - assets/images/download.jpg
+    - assets/backgrounds/bg_main.png.jpg
+    - assets/animations/sudha_animation.mp4
+    - assets/images/all-in.png
+    - assets/images/22.png 
+    - assets/images/belgian.png
+    - assets/images/butter.jpg 
+    - assets/images/cham-cham.jpg 
+    - assets/images/choco-vanilla.png 
+    - assets/images/chocoo.png 
+    - assets/images/crunch.png 
+    - assets/images/cow.jpg 
+    - assets/images/dahi.jpg 
+    - assets/images/delight-milk.jpg 
+    - assets/images/download (3).jpg 
+    - assets/images/download.jpg 
+    - assets/images/fig.png 
+    - assets/images/flewerd-milk.jpg 
+    - assets/images/ghee.jpg 
+    - assets/images/gold-cone.png 
+    - assets/images/gulab-jamun.jpg 
+    - assets/images/healthy-milk.jpg 
+    - assets/images/kesar.png 
+    - assets/images/lassi.jpg 
+    - assets/images/logo.png 
+    - assets/images/logo.png.webp 
+    - assets/images/magic.png 
+    - assets/images/mango-lassi.jpg 
+    - assets/images/mango.png 
+    - assets/images/mathha.jpg 
+    - assets/images/matka.png 
+    - assets/images/mawa.png
+    - assets/images/mazza.png
+    - assets/images/misti.jpg 
+    - assets/images/orange.png
+    - assets/images/paneer.jpg
+    - assets/images/patna_dairy_3d.jpg
+    - assets/images/peda.jpg 
+    - assets/images/pista.png
+    - assets/images/plain-orange.png 
+    - assets/images/products1.png 
+    - assets/images/products2.jpg 
+    - assets/images/products3.jpg 
+    - assets/images/rabri.png 
+    - assets/images/rabrii.png 
+    - assets/images/rajbhog.jpg 
+    - assets/images/rasgulla.jpg 
+    - assets/images/resin.png 
+    - assets/images/scotch.png 
+    - assets/images/smart-milk.jpg 
+    - assets/images/stra.png 
+    - assets/images/sudha-sakti-milk.jpg 
+    - assets/images/tik-tok-choco.png 
+    - assets/images/tik-tok.png 
+    - assets/images/tit-bit.png 
+    - assets/images/vanilla.png 
+    - assets/images/vanillaa.png
+    
